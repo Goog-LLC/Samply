@@ -14,15 +14,15 @@ var sites = [
 ];
 
 //the name of the ring
-var ringName = 'My Ring';
+var ringName = 'The Goog ring';
 
 /* the unique ID of the widget. two things to note:
  1) make sure there are no spaces in it - use dashes or underscores if you must
  2) remember to change 'webringid' in the widget code you give out and all instances of '#webringid' in the css file to match this value!*/
-var ringID = 'my-ring';
+var ringID = 'goog-ring';
 
 //should the widget include a link to an index page?
-var useIndex = false;
+var useIndex = true;
 //the full URL of the index page. if you're not using one, you don't have to specify anything here
 var indexPage = 'https://example.com/index.html';
 
