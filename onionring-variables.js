@@ -24,7 +24,7 @@ var ringID = 'goog-ring';
 //should the widget include a link to an index page?
 var useIndex = true;
 //the full URL of the index page. if you're not using one, you don't have to specify anything here
-var indexPage = 'https://example.com/index.html';
+var indexPage = 'https://goog.ifeellikeharukananase.tech/sites';
 
 //should the widget include a random button?
 var useRandom = true;
